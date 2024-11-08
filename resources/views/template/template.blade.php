@@ -57,7 +57,10 @@
                 </ul>
                 </div>
                 <div class="logo">
-                  <a class="navbar-brand" href="index.html"></a>
+                  <a class="img-logo" href="">
+                    <img src="https://binaqurani.sch.id/wp-content/uploads/2024/08/Makna-dan-filosofi-logo-bina-qurani-islamic-boarding-school10-1024x683.png"
+                     alt="logo" width="100" class="img-logo"> 
+                  </a>
                 </div>
                 <div class="" id="headerNav">
                   <ul class="navbar-nav">
